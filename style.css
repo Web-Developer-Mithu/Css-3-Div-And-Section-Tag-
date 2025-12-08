@@ -1,0 +1,35 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.hero{
+    background-image: url('image/bg1.jpg');
+    height: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+    background-position: center;
+    color:rgb(0, 170, 255);
+     
+}
+
+.project{
+    margin-top:15px;
+    overflow: hidden;
+    width: 100%
+
+}
+
+.project-item{
+    float:left;
+    width: 30%;
+    border: 1px solid red;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    height: 300px;
+      
+
+}
+
