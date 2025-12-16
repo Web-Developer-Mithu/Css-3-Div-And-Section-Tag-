@@ -149,3 +149,24 @@
         height: 180px;
     }
 }
+
+@media screen and (max-width: 992px) {
+    .foter{
+    height: 200px;  
+}
+.foter-iten{
+   width: 48%;
+   
+}
+
+@media screen and (max-width: 768px) {
+    .foter{
+    height: 270px;  
+}
+.foter-iten{
+   width: 100%;
+   font-size: large;
+   margin-top: 30px;
+   
+}
+
